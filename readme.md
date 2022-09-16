@@ -47,7 +47,7 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
 - Groupe 2 : 
   - Thibault LETOURNEUR
   - Caroline FASSOT
-  - Dan PUSCUTA
+  - Dan PUSCUTA :)
 - Groupe 3 : 
   - Arthur JEANNOT
   - Joris GOURDON
