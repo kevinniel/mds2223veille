@@ -44,7 +44,7 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
   - Alexandre BECAVIN
   - Antonin HAUSSEGUY
   - Noé LEROI
-- Groupe 2 : 
+- Groupe 2 (meilleur groupe !) : 
   - Thibault LETOURNEUR
   - Caroline FASSOT
   - Dan PUSCUTA
