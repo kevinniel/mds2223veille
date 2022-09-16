@@ -1,7 +1,7 @@
 
 # Nom-sujet
 
-![Javascript](https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png "a title")
+<img src="https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png" alt="drawing" width="200"/>
 
 ## Description
 
