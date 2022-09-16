@@ -1,1 +1,1 @@
-nuxt
+Nuxt
