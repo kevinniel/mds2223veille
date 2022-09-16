@@ -1,5 +1,4 @@
-# Git
-![git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
+# Polymer JS
 
 ## Sources
 | Nom | Type | Langue | Lien | Description | Tags | Note |

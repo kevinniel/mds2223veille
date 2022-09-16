@@ -1,7 +1,6 @@
-# Git
-![git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
+# Meteor JS
 
-## Sources
+## Source
 | Nom | Type | Langue | Lien | Description | Tags | Note |
 |-----|------|--------|------|-------------|------|------|
 |     |      |        |      |             |      |      |
