@@ -2,11 +2,41 @@
 
 Par groupe, vous devrez trouver des sources de veille tech et les inclure dans ce git.
 
-## Informtions importantes : 
+## Informations importantes : 
   - 16 Septembre (matin)
   - 4 Octobre (journée)
   - 22 Décembre (aprem)
   - 24 Mai (journée)
+
+## Comment structurer une veille tech
+
+1. Sujet (stack tech, langage)
+2. Quel type va-t-on chercher ? ===> pour l'exercice : tous les types !
+
+1. Aller chercher les comptes officiels
+1.2 => identifier de potentielles nouvelles sources via les comptes suivi du sujet de base
+2. Entreprises et/ou personnes qui ont créer le sujet
+3. Aller chercher les personnes qui travaillent POUR cette entreprise
+4. Aller chercher les personnes qui travaillent AVEC cette entreprise
+5. Aller chercher les personnes qui font des tutos
+6. Docs officielles
+
+
+## Types de sources
+
+- Facebook
+- Twitter
+- Youtube
+- Insta
+- TikTok
+- LinkedIn
+- Discord
+- Telegram
+- Podcasts
+- Sites web (Blogs, Reddit, docs, google news)
+- Flux RSS
+- revues papier
+
 
 ## Groupes
 
@@ -59,6 +89,7 @@ Pour chaque source :
 - Lien
 - Description courte
 - "Tags" : les différents sujets évoqués
+- Note / 5 => pertinence par rapport au sujet de base "% de posts qui concernent le sujet"
 
 ## Barème d'évaluation
 
