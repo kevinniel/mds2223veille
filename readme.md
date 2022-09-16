@@ -48,3 +48,18 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
 4. Chaque membre du groupe crée sa propre branche et travaillera dessus
 5. Commits réguliers, messages parlants, etc...
 6. Avant chaque fin de "date" le chef de groupe sera tenu de regrouper l'ensemble des travaux effectués le jour sur la branche du groupe. Il devra ensuite réaliser une PullRequest.
+
+## Travaux demandés :
+
+Faire de la veille tech => sources !
+Pour chaque source : 
+- nom
+- Type (d'où ça vient ? Facebook, Twitter, Youtube, Siteweb, RSS, etc...)
+- Langue principalement utilisée
+- Lien
+- Description courte
+- "Tags" : les différents sujets évoqués
+
+## Barème d'évaluation
+
+à venir...
