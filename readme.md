@@ -2,7 +2,13 @@
 
 Par groupe, vous devrez trouver des sources de veille tech et les inclure dans ce git.
 
-Constitution des groupes : 
+## Informtions importantes : 
+  - 16 Septembre (matin)
+  - 4 Octobre (journée)
+  - 22 Décembre (aprem)
+  - 24 Mai (journée)
+
+## Groupes
 
 - Groupe 1 :
   - Alexandre BECAVIN
