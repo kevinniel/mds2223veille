@@ -198,6 +198,32 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
   - Pug
   - GitKraken
 
+
+## Sujets libres
+
+- ChartJS
+- GSAP
+- Zend
+- auth0
+- Behat
+- Cypress
+- Panda
+- Matplotlib
+- Oracle
+- J2E
+- Windev
+- Backbone JS
+- C
+- WebAssembly
+- WPF
+- Purpel ORM
+- UML
+- Magento
+- Nest ?
+- Joomla
+- Winform
+- Drupal
+
 ## Process
 
 1. Forker le repo
