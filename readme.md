@@ -226,7 +226,7 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
 
 ## Process
 
-1. Forker le repo
+1. Forker le repo (le chef de groupe) et ajouter les collaborateurs dessus
 2. Désigner 1 chef de groupe par date.
 3. Le chef de groupe crée une branche au nom du groupe
 4. Chaque membre du groupe crée sa propre branche et travaillera dessus
