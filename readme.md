@@ -69,6 +69,134 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
   - David DOGNIN
   - Cyril DOHIN
 
+## Liste des sujets
+
+- Groupe 1
+  - Angular
+  - Docker
+  - Python
+  - GraphQL
+  - SQL
+  - Flutter
+  - Kotlin
+  - Jira
+  - Spring
+  - Flask
+  - Leaflet
+  - Plotly
+  - keycloack
+  - Arduino
+  - Scratch
+  - Gitlab CI
+  - Composer
+- Groupe 2
+  - Vuejs
+  - GIT
+  - Jasper Soft
+  - Shopify
+  - Heroku
+  - Netlify
+  - SQL Server
+  - Unreal Engine
+  - LUA
+  - Ant design
+  - seaborn
+  - Postman
+  - MeteorJS
+  - MongoDB
+  - Selenium
+  - Polymer JS
+  - Open AI
+- Groupe 3
+  - PHP
+  - HTML
+  - Tailwind
+  - Jetbrain
+  - NoSQL
+  - Microsoft
+  - Gitlab
+  - Unity
+  - Java
+  - Silus
+  - scikit learn
+  - GITHUB
+  - Ruby on Rails
+  - JEST
+  - asp.net
+  - CakePHP
+  - C++
+- Groupe 4
+  - React
+  - Linux
+  - dotnet
+  - Node
+  - ElasticSearch
+  - Nextjs
+  - Insomnia
+  - Turbo
+  - API Plateforme
+  - Apache
+  - Caddy
+  - NGINX
+  - Latex
+  - Solidity
+  - Redis
+  - Assembleur
+  - Beautiful Soup
+- Groupe 5
+  - Symfony
+  - Django
+  - C#
+  - CSS
+  - Swift
+  - PostgreSQL
+  - Go
+  - Bootstrap
+  - Express
+  - Azure
+  - MapBox
+  - Ruby
+  - Rust
+  - JWT
+  - GCP
+  - Axios
+  - Yarn
+- Groupe 6
+  - JavaScript
+  - Doctrine
+  - Wordpress
+  - SCSS / SASS
+  - React Native
+  - Bulma CSS
+  - Stimulus
+  - MySQL
+  - Twig
+  - jQuery
+  - NPM
+  - WAMP
+  - Phpunit
+  - Webpack
+  - Prestashop
+  - Ansible
+  - Gulp
+- Groupe 7
+  - Laravel
+  - TypeScript
+  - Nuxt
+  - kubernates
+  - VSCode
+  - ThreeJS
+  - Strapi
+  - Stripe
+  - Vite
+  - Firebase
+  - mantine
+  - Tensorflow
+  - Superbase
+  - Raspberry
+  - AWS
+  - Pug
+  - GitKraken
 
 ## Process
 
@@ -83,13 +211,16 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
 
 Faire de la veille tech => sources !
 Pour chaque source : 
-- nom
-- Type (d'où ça vient ? Facebook, Twitter, Youtube, Siteweb, RSS, etc...)
-- Langue principalement utilisée
-- Lien
-- Description courte
-- "Tags" : les différents sujets évoqués
-- Note / 5 => pertinence par rapport au sujet de base "% de posts qui concernent le sujet"
+- **Nom**
+- **Type** (d'où ça vient ? Facebook, Twitter, Youtube, Siteweb, RSS, etc...)
+- **Langue** principalement utilisée
+- **Lien**
+- **Description** courte
+- **Tags** : les différents sujets évoqués
+- **Note** / 5 => pertinence par rapport au sujet de base "% de posts qui concernent le sujet"
+
+===> Sous forme de tableau !
+===> 1 fichier .markdown par sujet
 
 ## Barème d'évaluation
 
