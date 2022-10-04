@@ -1,6 +1,6 @@
 # Nginx
 
-![Caddy Server](https://nginx-extras.getpagespeed.com/assets/nginx-logo.png "Image de NGINX")
+![Nginx](https://nginx-extras.getpagespeed.com/assets/nginx-logo.png "Image de NGINX")
 
 ## Description
 
