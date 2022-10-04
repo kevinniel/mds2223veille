@@ -1,6 +1,6 @@
 # Solidity
 
-![Solidity](https://github.com/ethereum/solidity/blob/develop/docs/logo.svg)
+![Solidity](https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png)
 
 #Description
 
