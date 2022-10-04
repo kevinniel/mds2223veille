@@ -42,11 +42,16 @@ qu’on va pouvoir également directement implémenter.
 
 ## Sources
 
-Nom | Type          | Langue   | Lien | Description                               | Tags                              | Note 
- --- |---------------|----------| --- |-------------------------------------------|-----------------------------------|------
-Site officiel| Site web      | Anglais  |https://getbootstrap.com/| Présentation de bootstrap / Documentation | Bootstrap, CSS                    | 5/5  |
-GitHub officiel| Site web      | Anglais  |https://github.com/twbs/bootstrap| Bugs trouvés / documentation / installation | GitHub, Bootstrap                 | 4/5  |
-Twitter officiel| Réseau Social | Anglais  |https://twitter.com/getbootstrap| Nouvelles améliorations                   | Twitter, Bootstrap, News          | 3/5  |
-Pierre Giraud Bootstrap| Site web      | Français |https://www.pierre-giraud.com/bootstrap-apprendre-cours/introduction/ | Présentation / Démonstration              | Boostrap, Français, Démonstration | 4/5                      |
-
+Nom | Type          | Langue   | Lien | Description                                                                                                                 | Tags                              | Note 
+ --- |---------------|----------| --- |-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|------
+Site officiel| Site web      | Anglais  |https://getbootstrap.com/| Site présentant l'utilisation de bootstrap et sa Documentation                                                              | Bootstrap, CSS                    | 5/5  |
+GitHub officiel| Site web      | Anglais  |https://github.com/twbs/bootstrap| Listes des bugs trouvés par les utilisateurs. Il y a aussi un accès à la documentation et l'explication de son installation | GitHub, Bootstrap                 | 4/5  |
+Twitter officiel| Réseau Social | Anglais  |https://twitter.com/getbootstrap| Nouvelles améliorations                                                                                                     | Twitter, Bootstrap, News          | 3/5  |
+Pierre Giraud Bootstrap| Site web      | Français |https://www.pierre-giraud.com/bootstrap-apprendre-cours/introduction/ | Présentation de bootstrap et puis démonstration de son utilisation                                                          | Boostrap, Français, Démonstration | 4/5  |
+Apprendre Boostrap| Vidéo Youtube | Français |https://www.youtube.com/watch?v=gm2RCfjXS3s&t=1s| Tutoriel permettant d'apprendre rapidement les bases de bootstrap                                                           | Tutoriel, Débuter                 | 4/5  | 
+W3C Bootstrap| Site web      | Anglais  |https://www.w3schools.com/bootstrap/bootstrap_ver.asp | Documentation sur les differentes classes existantes                                                                        | Documentation, Bootstrap          | 4/5  | 
+| |               |          | |                                                                                                                             |                                   | 
+| |               |          | |                                                                                                                             |                                   | 
+| |               |          | |                                                                                                                             |                                   | 
+| |               |          | |                                                                                                                             |                                   | 
   ---
