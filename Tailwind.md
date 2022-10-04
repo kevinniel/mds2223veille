@@ -19,4 +19,4 @@ Nom | Type | Langue | Lien | Description | Tags | Note
 |Devto|Blog|Anglais|https://dev.to/search?q=Tailwindcss|Différents articles sur TailwindCss|TailwindCss|4/5
 |TheNetNinja|Youtube|Anglais|https://www.youtube.com/c/TheNetNinja|Cours et création de projets avec TailwindCss|TailwindCss|4/5
 |Medium|Blog|Anglais|https://medium.com/tag/tailwind-css/latest|Dernières sorties sur TailwindCss sous forme d'articles|TailwindCss|3/5
-|Tailwind Components|Anglais|https://tailwindcomponents.com/|Composants opensource développées avec Tailwindcss|TailwindCss|4/5
+Tailwind Components|Blog|Anglais|https://tailwindcomponents.com/|Composants opensource développées avec Tailwindcss|TailwindCss|4/5
