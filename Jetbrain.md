@@ -5,13 +5,19 @@
 
 ## Description
 JetBrains est un éditeur de logiciels pour développeurs.
+
 ## Sources
 
 Nom | Type | Langue | Lien | Description | Tags | Note
  --- | --- | --- | --- | --- | --- | --- 
-JavaScript|Site web|Anglais|https://www.javascript.com/|Documentation JavaScript par Pluralsight|JavaScript, Pluralsight|5/5|
-
-Documentation Markdown:
-- https://www.markdownguide.org/cheat-sheet/
-  
-  ---
+Jetbrains|Documentation|Anglais, Francais|https://www.jetbrains.com/fr-fr/|Documentation officiel de Jetbrains|Jetbrains|5/5
+Blog Jetbrains|Blog|https://blog.jetbrains.com/|Blog recensant les nouveautés et actualités de Jetbrains|Jetbrains, Blog|5/5
+Twitter Jetbrains|Twitter|https://twitter.com/jetbrains|Twitter officiel de Jetbrains, présente les nouveautés|Jetbrains, Twitter|4/5
+Infoq|Blog|https://www.infoq.com/fr/JetBrains/news/|Nouveautés de Jetbrains|Jetbrains, Infoq|2/5
+Youtube Jetbrains|Youtube|https://www.youtube.com/user/JetBrainsTV|Tutoriels d'utilisation de Jetbrains|Jetbrains, Youtube|4/5
+Facebook Jetbrains|Facebook|https://fr-fr.facebook.com/JetBrains/|Actualités et nouveautés|Jetbrains, Facebook|2/5
+Instagram Jetbrains|Instagram|https://www.instagram.com/jetbrains|Actualités et nouveautés|Jetbrains, Instagram|2/5
+Devto|Blog|https://dev.to/search?q=Jetbrains|Tips, nouveautés et présentation de Jetbrains|Jetbrains, Devto|3/5
+Programmez|Blog|https://www.programmez.com/actualites/jetbrains|Actualités de Jetbrains|Jetbrains, Programmez|2/5
+Linkedin Jetbrains|Linkedin|https://www.linkedin.com/company/jetbrains|Compte linkedin officiel de Jetbrains|Jetbrains, Linkedin|2/5
+Littlebigcode|Blog|https://littlebigcode.fr/astuces-ide-jetbrains-esthetiques/|Astuces pour optimiser son IDE|Jetbrains, Littlebigcode|2/5

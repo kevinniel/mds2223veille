@@ -3,7 +3,7 @@
 ![PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png "PHP")
 
 ## Description
-Liste de sources permettant de s'informer sur les nouveautés de PHP.
+PHP est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet.
 
 ## Sources
 
@@ -20,8 +20,3 @@ Nom | Type | Langue | Lien | Description | Tags | Note
 |PHP Developer org|Twitter|Anglais|https://twitter.com/phpdeveloper|Latest release des mises à jour de PHP|PHP|2/5|
 |Gary Clarke Tech|Youtube|Anglais|https://www.youtube.com/c/GaryClarkeTech|Cours sur les nouveautés de PHP|PHP|3/5|
 |Dave Hollingworth|Youtube|Anglais|https://www.youtube.com/c/DavehIo|Videos et shorts sur différentes technos de PHP|PHP|3/5|
-
-Documentation Markdown:
-- https://www.markdownguide.org/cheat-sheet/
-  
-  ---
