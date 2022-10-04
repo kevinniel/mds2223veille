@@ -1,6 +1,11 @@
 # Assembleur
 
+## Description
+Le programme assembleur convertit ces mnémoniques en langage machine, ainsi que les valeurs (écrites en décimal) en binaire et les libellés d'emplacements en adresses, en vue de créer par exemple un fichier objet ou un fichier exécutable.
+## Sources
+
 Nom | Type | Langue | Lien | Description | Tags | Note
+ --- | --- | --- | --- | --- | --- | --- 
 Wikipédia | Site web | Français | https://fr.wikipedia.org/wiki/Assembleur | Un langage d'assemblage ou langage assembleur est le langage de plus bas niveau qui représente le langage machine sous une forme lisible par un humain | Assembleur |  4/5
 Google | PDF | Français | https://books.google.fr/books?id=8ogrKMfpoywC&pg=PA20&dq=%22Assembleur%22+langage+1949#v=onepage&q=%22Assembleur%22%20langage%201949&f=false | Initialisation à la programmation | Assembleur |  1/5
 Coursetechinfo | Site web | Français | https://www.courstechinfo.be/Programmation/IntroASM.html | Introduction au langage assembleur | Assembleur |  2/5
@@ -10,3 +15,5 @@ Développez | Site web | Français | https://asm.developpez.com/cours/ | Les cou
 Youtube | Vidéo | Français | https://www.youtube.com/watch?v=fvtd2Ut3MHw | Les cours et tutoriels d'Assembleur | Assembleur |  2/5
 tdct | site Web | Français | http://sdz.tdct.org/sdz/en-profondeur-avec-l-assembleur.html | Apprendre l'assembleur en profondeur | Assembleur |  2/5
 technologuepro | site Web | Français | https://www.technologuepro.com/microprocesseur/programmation-assembleur-microprocesseur.htm | Programmation en assembleur | Assembleur |  3/5
+  
+  ---
