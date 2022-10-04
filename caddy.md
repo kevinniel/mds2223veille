@@ -1,6 +1,6 @@
 # Caddy Server
 
-![Caddy Server](https://repository-images.githubusercontent.com/29207621/a110cd80-a7df-11ea-8184-27bb6573a7fa "Image de Caddy Server" =100x)
+![Caddy Server](https://repository-images.githubusercontent.com/29207621/a110cd80-a7df-11ea-8184-27bb6573a7fa "Image de Caddy Server")
 
 ## Description
 
