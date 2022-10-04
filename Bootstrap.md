@@ -13,5 +13,5 @@ JavaScript|Site web|Anglais|https://www.javascript.com/|Documentation JavaScript
 
 Documentation Markdown:
 - https://www.markdownguide.org/cheat-sheet/
-  
+
   ---

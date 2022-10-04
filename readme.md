@@ -56,10 +56,12 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
   - Olivier MARCHOND
   - Corentin GOUJON-CHOLET
   - Kylian BELNOU
+  - Alexis DELAUNAY
 - Groupe 5 :
   - Elias BEAUMIER
   - Pierre COLLET
   - Joachim GAIGNARD
+  - Thibault DEROUIN
 - Groupe 6 :
   - Anthony PINEAU
   - Alseny BANGOURA
