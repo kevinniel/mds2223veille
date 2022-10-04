@@ -1,7 +1,6 @@
 
 # Jetbrains
 
-
 ![Jetbrain](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png "Logo de Jetbrain")
 
 ## Description
