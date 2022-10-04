@@ -1,6 +1,13 @@
 
-| Nom | Type | Langue | Lien | Description | Tags | Note |
-|-----|------|--------|------|-------------|------|------|
-|     |      |        |      |             |      |      |
-|     |      |        |      |             |      |      |
-|     |      |        |      |             |      |      |
+| Nom                                                            | Type     | Langue  | Lien                                                                                                              | Description | Tags                                                         | Note |
+|----------------------------------------------------------------|----------|---------|-------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------|------|
+| Must-Know Ref vs Reactive Differences In Vue 3 Composition API | Facebook | Anglais | https://softauthor.com/vue3-ref-vs-reactive/?fbclid=IwAR28Qn8FXnLw4IUXKTjeb2bP9FAQnYzK0rYsEi86xCXzZsJHoYTSBSi3aEU |             | #API #VueJs #reactive #                                      | 5/5  |
+| Post Vorms                                                     | Facebook | Anglais | https://www.facebook.com/groups/vuejsdevelopers/permalink/1503974376681240/                                       |             |                                                              |      |
+| Add Place Autocomplete To An Input Field in Vuejs              | Facebook | Anglais | https://www.facebook.com/groups/vuejsdevelopers/permalink/1503243013421043/                                       |             | #vuejs #vue #softauthor #webdevelopment #programming #coding |      |
+| Vue JS $EventBus - Send Data Between Components                | Facebook | Anglais | https://www.facebook.com/groups/vuejsdevelopers/permalink/1501607823584562/                                       |             | #vue #vuejs #softauthor                                      |      |
+|                                                                |          |         |                                                                                                                   |             |                                                              |      |
+|                                                                |          |         |                                                                                                                   |             |                                                              |      |
+|                                                                |          |         |                                                                                                                   |             |                                                              |      |
+|                                                                |          |         |                                                                                                                   |             |                                                              |      |
+|                                                                |          |         |                                                                                                                   |             |                                                              |      |
+
