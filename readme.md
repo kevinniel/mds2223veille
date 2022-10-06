@@ -66,6 +66,7 @@ Par groupe, vous devrez trouver des sources de veille tech et les inclure dans c
   - Anthony PINEAU
   - Alseny BANGOURA
   - Jessy PROVENZAL
+  - Yassine KHATTABI
 - Groupe 7 : 
   - Victor COUSSEAU
   - David DOGNIN
