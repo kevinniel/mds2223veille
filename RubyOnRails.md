@@ -1,0 +1,23 @@
+## Ruby On Rails
+
+![Ruby On Rails](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png "Ruby On Rails")
+
+## Description
+Ruby on Rails est un framework web libre écrit en Ruby. Il suit le motif de conception modèle-vue-contrôleur. Il propose une structure qui permet de développer rapidement et intuitivement.
+
+## Sources
+
+Nom | Type | Langue | Lien | Description | Tags | Note
+ --- | --- | --- | --- | --- | --- | --- 
+|Ruby on Rails Blog|Blog|Anglais|https://rubyonrails.org/blog/|Ce blog contient des annonces officielles et des mises à jour sur les dernières versions de Ruby on Rails, ainsi que des tutoriels et des conseils sur l'utilisation de cet outil.|annonces, mises à jour, tutoriels, conseils|5/5
+|Ruby on Rails Tutorial|Livre en ligne et tutoriels vidéo|Anglais|https://www.railstutorial.org/|Ce livre en ligne et les tutoriels vidéo associés fournissent une introduction complète à Ruby on Rails, y compris les bases du développement web et une exploration approfondie de l'outil.|développement web, introduction, tutoriels|4/5
+|Ruby on Rails Guide|Guide en ligne|Anglais|https://guides.rubyonrails.org/|Ce guide en ligne fournit une documentation détaillée sur l'utilisation de Ruby on Rails, y compris des exemples de code et des explications sur les concepts clés.|documentation, exemples de code, concepts clés|3/5|
+|Ruby on Rails Podcast|Podcast|Anglais|https://rubyonrails.org/podcast/|Ce podcast explore les dernières tendances et les meilleures pratiques dans le développement avec Ruby on Rails, avec des invités de l'industrie et des discussions sur les sujets les plus pertinents.|tendances, meilleures pratiques, développement, invités|3/5|
+|Ruby on Rails Courses|Cours en ligne|Anglais|https://www.codeschool.com/courses/rails-for-zombies-redux|Ce cours en ligne interactive permet aux débutants de se familiariser avec Ruby on Rails grâce à des leçons et des exercices pratiques.Tags: débutants, leçons, exercices pratiques|apprendre, cours|2/5|
+|Ruby on Rails Stack Exchange|Forum de questions/réponses|Anglais|https://ru.stackoverflow.com/questions/tagged/ruby-on-rails|Ce forum de questions/réponses permet aux développeurs de poser des questions et de trouver des réponses sur Ruby on Rails, avec une grande base de données de questions et de réponses précédemment publiées.|développeurs, questions, réponses|3/5|
+|Ruby on Rails Meetup|Groupes de rencontre en personne|Anglais|https://www.meetup.com/topics/ruby-on-rails/|Ces groupes de rencontre en personne sont organisés dans de nombreuses villes à travers le monde et permettent aux développeurs de se rencontrer en personne pour discuter de Ruby on Rails et échanger des idées.|développeurs, rencontres en personne, discussions, échanges d'idées|4/5|
+|Ruby on Rails YouTube Channel|Chaîne YouTube|Anglais|https://www.youtube.com/channel/UCJN_tT7bJl-LsGphfDjlHAg|Cette chaîne YouTube contient une variété de vidéos sur Ruby on Rails, y compris des tutoriels, des présentations de conférences et des discussions sur les dernières tendances.|tutoriels, conférences, tendances|4/5|
+|Ruby on Rails Reddit|Forum de discussion|Anglais|https://www.reddit.com/r/rails/|Ce forum de discussion sur Reddit est dédié à Ruby on Rails et permet aux développeurs de discuter de questions et de sujets liés à l'outil.|développeurs, questions, sujets|4/5|
+|Ruby on Rails Conferences|Conférences|Anglais|https://www.railsconf.com/|Ces conférences annuelles offrent une grande variété de présentations et de discussions sur Ruby on Rails, avec des intervenants de l'industrie et des développeurs de premier plan.|présentations, discussions, intervenants, développeurs|3/5|
+|Ruby on Rails for Beginners|Cours en ligne|Anglais|https://www.udemy.com/course/ruby-on-rails-for-beginners/|Ce cours en ligne est conçu pour les débutants et fournit une introduction complète à Ruby on Rails, y compris les bases du développement web et de l'outil.|débutants, introduction, développement web|2/5|
+|Ruby on Rails Essential Training|Cours en ligne|Anglais|https://www.lynda.com/Ruby-on-Rails-tutorials/Ruby-on-Rails-Essential-Training/622268-2.html|Ce cours en ligne de Lynda offre une formation approfondie sur l'utilisation de Ruby on Rails, avec des leçons pratiques et des exemples de code pour mettre en pratique les concepts appris.|formation, leçons pratiques, exemples de code|4/5|
