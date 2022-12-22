@@ -1,7 +1,8 @@
 # Jquery
 
-![Django](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/2560px-JQuery-Logo.svg.png)
-
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/2560px-JQuery-Logo.svg.png" alt="drawing" width="500"/>
+</p>
 
 ## Description
 
