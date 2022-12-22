@@ -1,0 +1,10 @@
+| Nom | Type | Langue | Lien | Description | Tags | Note |
+|-----|------|--------|------|-------------|------|------|
+|Postman|Site officiel|Anglais|https://www.postman.com/|Site officiel de Postman, contenant des informations sur le logiciel, des exemples et des tutoriels|postman, logiciel, test de logiciels|5/5|
+|Postman Documentation|Site de documentation|Anglais|https://docs.postman.com/|Site de documentation de Postman, contenant des informations détaillées sur l'utilisation du logiciel et des exemples de code|postman, documentation, exemples|5/5|
+|Postman University|Site de formation|Anglais|https://learning.postman.com/|Site de formation de Postman, contenant des cours en ligne et des certifications sur l'utilisation du logiciel|postman, formation, cours en ligne|4/5|
+|Postman Blog|Blog|Anglais|https://www.postman.com/blog/|Blog de Postman, contenant des annonces et des mises à jour sur le logiciel|postman, blog, mises à jour|4/5|
+|Postman YouTube|Chaîne YouTube|Anglais|https://www.youtube.com/user/getpostman|Chaîne YouTube de Postman, contenant des vidéos de conférences et de tutoriels sur l'utilisation du logiciel|postman, vidéo, tutoriels|4/5|
+|Postman Twitter|Compte Twitter|Anglais|https://twitter.com/postmanclient|Compte Twitter de Postman, contenant des mises à jour et des annonces sur le logiciel|postman, twitter, mises à jour|4/5|
+|Postman Slack|Communauté en ligne|Anglais|https://www.postman.com/slack/|Communauté en ligne de développeurs utilisant Postman, permettant de poser des questions et de discuter de problèmes liés au logiciel|postman, communauté, discussion|4/5|
+|Postman Meetup|Site de meetup|Anglais|https://www.meetup.com/pro/postman/|Site de meetup pour les utilisateurs de Postman, permettant de trouver et de participer à des événements en personne|postman, meetup, événements|3/5|
