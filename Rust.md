@@ -1,6 +1,6 @@
-# Express
+# Rust
 <p align="center">
-    <img alt="Express" src="https://expressjs.com/images/express-facebook-share.png">
+    <img alt="JWT" src="https://expressjs.com/images/express-facebook-share.png">
 </p>
 
 ## Description
