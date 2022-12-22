@@ -253,4 +253,11 @@ Pour chaque source :
 
 ## Barème d'évaluation
 
-à venir...
+Notation de groupe.
+
+Éléments pris en compte pour la notation :
+- nombre de sources par sujet
+- qualité et pertinence des sources
+- qualité des fichiers markdown
+- PR réalisées par tous les membres du groupe
+- nommage de commit propres
