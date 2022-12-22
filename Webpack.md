@@ -1,4 +1,12 @@
- Nom  | Type  | Langue | Lien | Description | Tags | Note 
+# Nom: Webpack
+ <img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png" width="200"/>
+ 
+ ## Description
+Webpack est un module bundler open source pour JavaScript. Il permet de prendre en charge une large gamme de fichiers JavaScript et de les "bundler" en un ou plusieurs fichiers de sortie, généralement utilisés dans les applications web.
+
+Le bundling consiste à regrouper plusieurs fichiers en un seul, de manière à réduire le nombre de requêtes HTTP nécessaires pour charger une application web. Cela peut améliorer les performances de l'application en réduisant le temps de chargement des pages et en évitant le problème du "waterfall" (un fichier bloquant le chargement des autres).
+## Sources
+Nom  | Type  | Langue | Lien | Description | Tags | Note 
 ------|-------|--------|------|-------------|------|------
 | Webpack            | Module bundler | Français/Anglais   | https://webpack.js.org/                             | Webpack est un module bundler open source pour JavaScript   | #modulebundler #JavaScript #build #performance #assetmanagement      |   5  |
 | Webpack Academy    | Formation     | Français           | https://webpack.academy/                            | Formation en ligne sur Webpack                         | #Webpack #formation #tutoriels #exemples #astuces                     |   4  |
