@@ -1,12 +1,12 @@
 # Kotlin
 
-![Kotlin](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png "Kotlin")
+![Kotlin](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png "Kotlin")
 
 ## Description
 
 ## Sources
 
-    Nom       | Type     | Langue  | Lien | Description         | Tags     | Note
+Nom       | Type     | Langue  | Lien | Description         | Tags     | Note
  -------- | -------- | --------| ---- | ------------------- | -------- | --- 
 Kotlin Blog|Blog|Anglais|https://blog.jetbrains.com/kotlin|Le blog officiel de Kotlin, offrant des articles sur les nouveautés du langage, les bonnes pratiques, les tutoriels et les cas d'utilisation de Kotlin.|Kotlin, Programmation, Développement|4.6
 Kotlinlang.org|Site web|Anglais|https://kotlinlang.org|Le site web officiel de Kotlin, proposant une documentation complète, des guides d'apprentissage, des exemples de code et des actualités sur le langage.|Kotlin, Programmation, Développement|4.8
