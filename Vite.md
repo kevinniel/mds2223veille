@@ -1,4 +1,6 @@
 
+![PHP](https://vitejs.dev/logo-with-shadow.png "Vite")
+
 | Nom                 | Type          | Langue     | Lien | Description                                                                                                                                                           | Tags             | Note    |
 |---------------------|---------------|------------| ---- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------|
 | Doc officielle      | Doc           | Anglais    | https://vitejs.dev/     | Guide installation, configuration,                                                                                                                                    | doc vite         | 100/100 |
